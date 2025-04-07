@@ -174,3 +174,7 @@ cython_debug/
 .pypirc
 
 resnet18_models
+resnet18_quantization
+resnet18_pruned_unst
+resnet18_pruned_st
+.DS_Store
